@@ -5,14 +5,15 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-['527712297198', '𝕶𝖎𝖑𝖑𝖚𝖆', true],
-['527713734841', '⛧𝕭𝖔𝖙✰𝕸𝖊𝖜𝖙𝖜𝖔⛧', true],
+['56957006071', 'Babydog560', true]
+['56987427515', 'Joakin' true]
+['527713734841', '𝕶𝖎𝖑𝖑𝖚𝖆', true],
 ] 
 global.suittag = ['5219993404349'] 
 global.prems = ['51995386439'] 
 
-global.packname = '⛧𝕭𝖔𝖙'
-global.author = '𝕸𝖊𝖜𝖙𝖜𝖔⛧'
+global.packname = '𝕸𝖞𝖘𝖙𝖎𝖈-𝕭𝖔𝖙'
+global.author = '𝕵𝖔𝖆𝖐𝖎𝖓𝖌'
 global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
