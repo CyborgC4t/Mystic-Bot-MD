@@ -1,3 +1,5 @@
+### 'Todos los créditos al sr creador HTTPS://github.com/BrunoSobrino'
+
 # `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
